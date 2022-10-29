@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p class="flex"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ollymid&layout=compact&hide=html" alt="olly-stats-1"/>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ollymid&layout=compact&hide=html" alt="olly-stats-1"/>
 <img  src="https://github-readme-stats.vercel.app/api?username=Ollymid&show_icons=true&count_private=true" alt="olly-stats-2" /></p>
 
 <!--
