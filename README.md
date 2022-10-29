@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ollymid&layout=compact&hide=html" alt="olly-stats" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=Ollymid&show_icons=true&count_private=true" alt="olly-stats" /></p>
+<p class="flex"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ollymid&layout=compact&hide=html" alt="olly-stats-1"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=Ollymid&show_icons=true&count_private=true" alt="olly-stats-2" /></p>
 
 <!--
 **Ollymid/Ollymid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
